@@ -11,7 +11,7 @@ community of like- minded individuals
 
 ## Deployment Link
 
-[View Deployment]
+[View Deployment] https://blogapp-harikrishna.vercel.app/
 
 
 ## Installation
