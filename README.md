@@ -29,7 +29,9 @@ community of like- minded individuals
 
 ## Project Images
 
+SignUp Page
 
+![Screenshot 2024-06-05 205811](https://github.com/Hari-Krishna-Metta/BlogApp-React/assets/135844434/92f00ca8-cb86-4e79-b873-cd76eaa82632)
 
 
 
