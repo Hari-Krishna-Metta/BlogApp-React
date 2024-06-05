@@ -33,9 +33,29 @@ SignUp Page
 
 ![Screenshot 2024-06-05 205811](https://github.com/Hari-Krishna-Metta/BlogApp-React/assets/135844434/92f00ca8-cb86-4e79-b873-cd76eaa82632)
 
+Home Page
 
+![Screenshot 2024-06-05 205959](https://github.com/Hari-Krishna-Metta/BlogApp-React/assets/135844434/4ff9940a-3ad8-4e4d-a58f-c92dad8c6685)
 
+Write Blog
 
+![Screenshot 2024-06-05 210026](https://github.com/Hari-Krishna-Metta/BlogApp-React/assets/135844434/b5009fdb-ac90-4353-b84a-3f634701af34)
+
+Blog Body
+
+![Screenshot 2024-06-05 210157](https://github.com/Hari-Krishna-Metta/BlogApp-React/assets/135844434/efe24113-43ff-4780-8b7b-4adfa0844112)
+
+Update and Delete
+
+![Screenshot 2024-06-05 210105](https://github.com/Hari-Krishna-Metta/BlogApp-React/assets/135844434/90f6b189-3d3f-42bd-88bd-9c6a6f066326)
+
+Comments
+
+![Screenshot 2024-06-05 210219](https://github.com/Hari-Krishna-Metta/BlogApp-React/assets/135844434/d80e5d79-162c-4d1c-b422-c33a3988202f)
+
+Dark Theme
+
+![Screenshot 2024-06-05 210250](https://github.com/Hari-Krishna-Metta/BlogApp-React/assets/135844434/635158ac-6918-413a-9e46-d7ee3bd04fc2)
 
 
 ## 💻 Tech Stack:
