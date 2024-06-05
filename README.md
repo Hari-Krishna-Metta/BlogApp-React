@@ -1,3 +1,20 @@
+## BlogApp
+
+Created a web application with name BLOGAPP ,
+which is used create blogs on different categories. It is designed to revolutionize the way includes
+create, edit and delete their Blogs on website. With its user – friendly interface and robust
+features. This application is set to become your
+go-to platform for expressing your thoughts,
+sharing your experiences , and engaging with a
+community of like- minded individuals
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
