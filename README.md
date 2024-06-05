@@ -17,7 +17,7 @@ community of like- minded individuals
 ## Installation
 
 ```bash
-  git clone https://github.com/harinadh76/Khel-Sethu.git
+  git clone [https://github.com/Hari-Krishna-Metta/BlogApp-React.git]
 ```
 ```bash
   npm install
