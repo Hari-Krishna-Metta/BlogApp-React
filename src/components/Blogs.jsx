@@ -37,7 +37,7 @@ function Blogs(props) {
             
             }) 
         }
-        {blogc==0 && <center><h5>No {category} Blogs Found</h5></center>}
+        {blogc==0 && <center><h5>No {category} blogs found</h5></center>}
     </div>
   )
 }
